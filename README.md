@@ -26,6 +26,11 @@ TradingView Alert: SHORT,ATR=100
 
 change short to long if you need to open long pos... 100 number equal 1% , if you need 2% profit use 200 and so on
 
+then after that send another email to confirm as follow
+
+TradingView Alert: DONE,ATR=100
+
+
 please download mp3 files to the same folder as your bot ..
 
 ///
