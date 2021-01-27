@@ -18,7 +18,7 @@ install ccxt using command  pip install  ccxt
 
 also install other lib if required  ,, you will get an err with the lib name use that name to install missing lib
 
-please change Margin=125 ,, to your required lav
+please change Margin=125 ,, to your required LAVRAGE  .. ALSO PLEASE CHANGE YOUR LAVRAGE IN BINANCE TO MATCH THE ONE INSIDE THE BOT
 
 To open a short pos send email to your bot exactly as follow
 
