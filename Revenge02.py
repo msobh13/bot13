@@ -730,15 +730,6 @@ def TICKSFunc():
 			KeyPressedToSELL=0
 			StopMultiSignals=1
 			UsingSellAgainToClosePostion=1
-			OrderpriceFile= open("Orderprice.txt","w+")
-			OrderpriceFile.write(str(Orderprice))
-			OrderpriceFile.close() 
-			OrdertypeFile= open("OrdertypeFile.txt","w+")
-			OrdertypeFile.write(str(Ordertype))
-			OrdertypeFile.close()
-			OrdertypeFile= open("Orderamount.txt","w+")
-			OrdertypeFile.write(str(Orderamount))
-			OrdertypeFile.close()
 			now1M = datetime.now() 
 			dt_string1M = now1M.strftime("%d/%m/%Y %H:%M:%S")
 			
@@ -810,15 +801,6 @@ def TICKSFunc():
 			KeyPressedToSELL=0
 			StopMultiSignals=1
 			UsingSellAgainToClosePostion=1
-			OrderpriceFile= open("Orderprice.txt","w+")
-			OrderpriceFile.write(str(Orderprice))
-			OrderpriceFile.close() 
-			OrdertypeFile= open("OrdertypeFile.txt","w+")
-			OrdertypeFile.write(str(Ordertype))
-			OrdertypeFile.close()
-			OrdertypeFile= open("Orderamount.txt","w+")
-			OrdertypeFile.write(str(Orderamount))
-			OrdertypeFile.close()
 			now1M = datetime.now() 
 			dt_string1M = now1M.strftime("%d/%m/%Y %H:%M:%S")
 			
@@ -1705,12 +1687,6 @@ def TICKSFunc():
 				CI=0
 				A=0
 				FirstProfitLockArray.clear()
-				OrderpriceFile= open("Orderprice.txt","w+")
-				OrderpriceFile.write("NONE")
-				OrderpriceFile.close() 
-				OrdertypeFile= open("OrdertypeFile.txt","w+")
-				OrdertypeFile.write("NONE")
-				OrdertypeFile.close()
 				lockarray1 =0
 				lockarray2 =0
 				lockarray3 =0
@@ -1876,12 +1852,6 @@ def TICKSFunc():
 				CI=0
 				A=0
 				FirstProfitLockArray.clear()
-				OrderpriceFile= open("Orderprice.txt","w+")
-				OrderpriceFile.write("NONE")
-				OrderpriceFile.close() 
-				OrdertypeFile= open("OrdertypeFile.txt","w+")
-				OrdertypeFile.write("NONE")
-				OrdertypeFile.close()
 				lockarray1 =0
 				lockarray2 =0
 				lockarray3 =0
@@ -2181,12 +2151,6 @@ def TICKSFunc():
 				CI=0
 				A=0
 				FirstProfitLockArray.clear()
-				OrderpriceFile= open("Orderprice.txt","w+")
-				OrderpriceFile.write("NONE")
-				OrderpriceFile.close() 
-				OrdertypeFile= open("OrdertypeFile.txt","w+")
-				OrdertypeFile.write("NONE")
-				OrdertypeFile.close()
 				lockarray1 =0
 				lockarray2 =0
 				lockarray3 =0
@@ -2352,12 +2316,6 @@ def TICKSFunc():
 				CI=0
 				A=0
 				FirstProfitLockArray.clear()
-				OrderpriceFile= open("Orderprice.txt","w+")
-				OrderpriceFile.write("NONE")
-				OrderpriceFile.close() 
-				OrdertypeFile= open("OrdertypeFile.txt","w+")
-				OrdertypeFile.write("NONE")
-				OrdertypeFile.close()
 				lockarray1 =0
 				lockarray2 =0
 				lockarray3 =0
