@@ -21,4 +21,4 @@ change short to long if you need to open long pos... 100 number equal 1% , if yo
 
 please download mp3 files to the same folder as your bot ..
 
-//
+///
