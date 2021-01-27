@@ -3,15 +3,20 @@ PLEASE USE THIS BOT AT YOUR OWN RISK . PLEASE TEST IT FIRST USING 10$ OR 20$ MAX
 
 
 # THIS BOT IS CONNECTING TO BINANCE USING CCXT , AND CONNECT TO GMAIL TO CHECK FOR NEW EMAIL WHICH COULD CONTAIN
+
 SHORT - LONG - EXIT - CHANGE 
+
 SHORT AND LONG IS FOR OPEN NEW POSTION
+
 EXIT FOR CLOSING YOUR POSTION
+
 CHANGE IS FOR CHANGING THE PROFIT YOU WANT 
 
 PLEASE INSTALL PYTHON python 3.9
 
 install ccxt using command  pip install  ccxt
-also install other lib if required  ,, you will get an err with the lib name
+
+also install other lib if required  ,, you will get an err with the lib name use that name to install missing lib
 
 please change Margin=125 ,, to your required lav
 
